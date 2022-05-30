@@ -220,8 +220,14 @@
 		"titleBar.border": "#22283160",
 		"titleBar.inactiveBackground": "#222831",
 		"titleBar.inactiveForeground": "#064663",
-		"tree.indentGuidesStroke": "#222831",
 		"widget.shadow": "#22283130",
+
+
+		"tree.indentGuidesStroke": "#41B496",
+		"sideBar.": "#ff0000"
+
+
+
 	},
 	"tokenColors": [
 		{
