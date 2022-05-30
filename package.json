@@ -3,6 +3,8 @@
     "displayName": "code-theme",
     "description": "hh-beep code theme",
     "version": "0.0.1",
+    "publisher": "code-theme",
+
     "engines": {
         "vscode": "^1.67.0"
     },
