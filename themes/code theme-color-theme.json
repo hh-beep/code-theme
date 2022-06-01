@@ -95,18 +95,19 @@
 		
 		
 		"list.activeSelectionBackground": "#222831",
-		"list.activeSelectionForeground": "#064663",
+		"list.activeSelectionForeground": "#ECB365",
 		"list.focusBackground": "#222831",
-		"list.focusForeground": "#ff0000",
+		"list.focusForeground": "#41B496",
 		"list.highlightForeground": "#064663",
 		"list.hoverBackground": "#222831",
 		"list.hoverForeground": "#ECB365",
 		"list.inactiveSelectionBackground": "#22283130",
-		"list.inactiveSelectionForeground": "#064663",
+		"list.inactiveSelectionForeground": "#ECB36530",
+		"list.errorForeground": "#FF5D5D",
 		"list.warningForeground": "#41B496",
 		"listFilterWidget.background": "#22283130",
-		"listFilterWidget.noMatchesOutline": "#22283130",
-		"listFilterWidget.outline": "#22283130",
+		"listFilterWidget.noMatchesOutline": "#FF5D5D",
+		"listFilterWidget.outline": "#41B496",
 		
 		
 		
